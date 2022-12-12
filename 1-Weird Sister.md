@@ -2,7 +2,7 @@
 
 - Name: Weird sister
 - Flag: HHCTF{d3v1lbru73f0rc3216}
-- Difficulty: Medium
+- Difficulty: Hard
 - Creators: Romain, Tim, Quentin
 
 ## Description
