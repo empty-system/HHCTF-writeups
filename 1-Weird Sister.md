@@ -18,11 +18,11 @@ He also knows that she spreads her life a bit too much on the networks, maybe th
 # For admin/mod
 
 Tools:
-cupp -> wordlist ([https://github.com/Mebus/cupp](https://github.com/Mebus/cupp "‌"))
-[https://fr.wikipedia.org/wiki/Leet_speak](https://fr.wikipedia.org/wiki/Leet_speak "‌")
-john -> bruteforce ([https://github.com/openwall/john](https://github.com/openwall/john "‌"))
-[https://linuxconfig.org/how-to-crack-zip-password-on-kali-linux](https://linuxconfig.org/how-to-crack-zip-password-on-kali-linux "‌")
-bruteforce-salted-openssl ([https://github.com/glv2/bruteforce-salted-openssl](https://github.com/glv2/bruteforce-salted-openssl "‌"))
+- cupp -> wordlist ([https://github.com/Mebus/cupp](https://github.com/Mebus/cupp "‌"))
+- [https://fr.wikipedia.org/wiki/Leet_speak](https://fr.wikipedia.org/wiki/Leet_speak "‌")
+- john -> bruteforce ([https://github.com/openwall/john](https://github.com/openwall/john "‌"))
+- [https://linuxconfig.org/how-to-crack-zip-password-on-kali-linux](https://linuxconfig.org/how-to-crack-zip-password-on-kali-linux "‌")
+- bruteforce-salted-openssl ([https://github.com/glv2/bruteforce-salted-openssl](https://github.com/glv2/bruteforce-salted-openssl "‌"))
 
 ## Writeup
 
