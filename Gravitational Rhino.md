@@ -23,8 +23,8 @@ https://app.short.io/users/dashboard/
 
 ## Writeup
 
-4500kg https://dinoanimals.com/animals/white-rhinoceros-the-largest-rhino/
-Resp = (4500kg/9.81m/s²)*24.79m/s²
-Resp = 11371
-5ogx.short.gy/11371
-Scan QRCode and check for the flag o7
+- 4500kg https://dinoanimals.com/animals/white-rhinoceros-the-largest-rhino/
+- Resp = (4500kg/9.81m/s²)*24.79m/s²
+- Resp = 11371
+- 5ogx.short.gy/11371
+- Scan QRCode and check for the flag o7
